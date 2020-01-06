@@ -7,9 +7,11 @@ Sam Videlock & Mayank Phanse
 
 # Project Goals:
   
-    Provide actionable insgights and recommendations to Microsft based on data analytics.
+Provide actionable insgights and recommendations to Microsft based on data analytics.
     
-# Presentation Link: https://www.canva.com/design/DADtMN9FIdo/TjhF-BUfcsJjRCGahlCRnA/view?utm_content=DADtMN9FIdo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+# Presentation Link
+
+https://www.canva.com/design/DADtMN9FIdo/TjhF-BUfcsJjRCGahlCRnA/view?utm_content=DADtMN9FIdo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 # Findings:
 
